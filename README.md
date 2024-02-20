@@ -6,7 +6,7 @@
 
 ![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=253985&center=true&vCenter=true&random=false&width=500&height=100&lines=Flutter+App+Developer;MERN+Stack+Developer;Arduino+Developer;Tech+Enthusiast;Professional+Daydreamer)
 
-[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/aditya-r-2496941ba/)
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/adeeteya)
 [<img src="https://img.shields.io/badge/Gmail%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:adeeteya@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Adeeteya)
 [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/adeeteya/)
