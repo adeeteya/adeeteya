@@ -10,6 +10,7 @@
 [<img src="https://img.shields.io/badge/Gmail%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:adeeteya@gmail.com)
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Adeeteya)
 [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/adeeteya/)
+[<img src="https://img.shields.io/badge/LeetCode%20-%23F2A53F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white"/>](https://www.leetcode.com/adeeteya/)
 
 </div>
 
