@@ -41,15 +41,13 @@
   <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 511.8 kB Used in GitHub's Storage 
- > 
-> 🏆 95 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,13 +80,12 @@ Sunday                   164 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    38 mins             ████████████████████░░░░░   80.17 % 
-SQL                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Other                    38 mins             ███████████████████████░░   90.04 % 
+INI                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 🔥 Editors: 
-Chrome                   35 mins             ███████████████████░░░░░░   74.87 % 
-VS Code                  11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+Chrome                   35 mins             █████████████████████░░░░   84.09 % 
+VS Code                  6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +101,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2024 18:39:47 UTC
+ Last Updated on 29/04/2024 18:41:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
