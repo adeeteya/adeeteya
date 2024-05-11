@@ -41,7 +41,7 @@
   <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
@@ -82,11 +82,10 @@ Sunday                   164 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 min               █████████████████████████   98.66 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -102,7 +101,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2024 18:40:17 UTC
+ Last Updated on 11/05/2024 18:39:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
