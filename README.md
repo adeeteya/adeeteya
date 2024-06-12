@@ -41,15 +41,13 @@
   <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 552.5 kB Used in GitHub's Storage 
- > 
-> 🏆 121 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,11 +80,15 @@ Sunday                   163 commits         ███████░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Dart                     2 hrs 3 mins        ████████████░░░░░░░░░░░░░   49.08 % 
+Other                    1 hr 55 mins        ████████████░░░░░░░░░░░░░   46.00 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 4 mins        ████████████████████████░   95.24 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+VS Code                  2 hrs 20 mins       ██████████████░░░░░░░░░░░   55.81 % 
+Chrome                   1 hr 49 mins        ███████████░░░░░░░░░░░░░░   43.54 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,7 +104,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024 18:42:19 UTC
+ Last Updated on 12/06/2024 18:41:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
