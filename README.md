@@ -41,13 +41,15 @@
   <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 558.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -80,12 +82,10 @@ Sunday                   165 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr                ████████████████████████░   97.85 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           1 hr 2 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -101,7 +101,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 18:43:40 UTC
+ Last Updated on 22/08/2024 18:43:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
