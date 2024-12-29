@@ -49,6 +49,8 @@
 
 > 📦 569.9 kB Used in GitHub's Storage 
  > 
+> 🏆 523 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -80,12 +82,10 @@ Sunday                   325 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     38 mins             ███████████████████░░░░░░   74.57 % 
-YAML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -101,7 +101,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 18:45:04 UTC
+ Last Updated on 29/12/2024 18:45:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
