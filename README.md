@@ -41,13 +41,15 @@
   <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-662%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 569.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 4 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -80,11 +82,13 @@ Sunday                   478 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     9 mins              █████████████████████████   99.99 % 
+Dart                     9 mins              ████████████████████░░░░░   78.19 % 
+Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Android Studio           9 mins              █████████████████████████   100.00 % 
+Android Studio           9 mins              ████████████████████░░░░░   78.19 % 
+Chrome                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -100,7 +104,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2025 18:45:24 UTC
+ Last Updated on 05/01/2025 18:45:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
