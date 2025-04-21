@@ -4,13 +4,14 @@
 
 <div align="center">
 
-![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=253985&center=true&vCenter=true&random=false&width=500&height=100&lines=Flutter+App+Developer;MERN+Stack+Developer;Arduino+Developer;Tech+Enthusiast;Professional+Daydreamer)
+![Self Describing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=500&height=100&lines=Flutter+App+Developer;MERN+Stack+Developer;Arduino+Developer;Tech+Enthusiast)
 
-[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white"/>](https://www.linkedin.com/in/adeeteya)
-[<img src="https://img.shields.io/badge/Gmail%20-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:adeeteya@gmail.com)
-[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Adeeteya)
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/adeeteya)
+[<img src="https://img.shields.io/badge/Gmail%20-%23EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:adeeteya@gmail.com)
+[<img src="https://img.shields.io/badge/X%20-%23000000.svg?&style=for-the-badge&logo=X&logoColor=white"/>](https://x.com/Adeeteya)
 [<img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/adeeteya/)
 [<img src="https://img.shields.io/badge/LeetCode%20-%23F2A53F.svg?&style=for-the-badge&logo=LeetCode&logoColor=white"/>](https://www.leetcode.com/adeeteya/)
+[<img src="https://img.shields.io/badge/WakaTime%20-%23FFFFFF.svg?&style=for-the-badge&logo=WakaTime&logoColor=black"/>](https://wakatime.com/@adeeteya)
 
 </div>
 
@@ -21,9 +22,8 @@
 <div align="left">
 
 - 🔭 I’m currently pursuing my Master's degree in Computer Science at Purdue University
-- 🌱 I’m currently learning Crypto and Network Security, Heuristic Problem Solving and Database Systems.
-- 🤔 I’m looking for help with UI/UX
-- 💬 Ask me about Flutter, Arduino and Web Development (React, Html and CSS)
+- 🌱 I’m currently learning System Design and DSA.
+- 💬 Ask me about Flutter, Arduino and Web Development (MERN Stack)
 - 📫 How to reach me: adeeteya@gmail.com
 - 😄 Pronouns: he/him
   
@@ -36,9 +36,6 @@
 ![Stats Graph](https://github-readme-stats.vercel.app/api?username=adeeteya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1)<br/>
 ![Streak Graph](https://github-readme-streak-stats.herokuapp.com/?user=adeeteya&theme=dark&hide_border=true)<br/>
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
-
-<details>
-  <summary>More in-depth stats</summary>
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C139%20hrs%2042%20mins-blue)
@@ -108,8 +105,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
  Last Updated on 20/04/2025 18:51:04 UTC
 <!--END_SECTION:waka-->
-
-</details>
 
 ### 📈 My Contribution Graph
 ![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
