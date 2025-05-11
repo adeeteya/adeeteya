@@ -38,13 +38,15 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C193%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 662.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,464 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,16 +79,16 @@ Sunday                   594 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     18 hrs 46 mins      ████████████████████░░░░░   80.99 % 
-YAML                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Java Properties          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Kotlin                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-textmate                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Dart                     18 hrs 39 mins      █████████████████████░░░░   85.42 % 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Java Properties          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+textmate                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Android Studio           22 hrs 57 mins      █████████████████████████   99.01 % 
-Chrome                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Android Studio           21 hrs 41 mins      █████████████████████████   99.33 % 
+Chrome                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,7 +104,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 18:48:34 UTC
+ Last Updated on 11/05/2025 18:49:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
