@@ -38,13 +38,15 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C521%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 731.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,093 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,14 +79,14 @@ Sunday                   1169 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     24 hrs 31 mins      ████████████████████████░   95.47 % 
-YAML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Application Resource Bund13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Dart                     23 hrs 11 mins      ████████████████████████░   95.65 % 
+YAML                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Application Resource Bund11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Android Studio           25 hrs 40 mins      █████████████████████████   99.92 % 
+Android Studio           24 hrs 13 mins      █████████████████████████   99.92 % 
 VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
@@ -101,7 +103,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2025 18:57:37 UTC
+ Last Updated on 16/08/2025 18:53:34 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
