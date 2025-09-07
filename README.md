@@ -38,7 +38,7 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C568%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C569%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.9%20million%20lines%20of%20code-blue)
 
@@ -79,15 +79,15 @@ Sunday                   802 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     16 hrs 43 mins      ████████████████████████░   95.72 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Application Resource Bund3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Dart                     19 hrs 40 mins      ████████████████████████░   95.60 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Application Resource Bund7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Android Studio           17 hrs 25 mins      █████████████████████████   99.81 % 
-Chrome                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Android Studio           20 hrs 32 mins      █████████████████████████   99.84 % 
+Chrome                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 18:47:48 UTC
+ Last Updated on 07/09/2025 18:49:15 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
