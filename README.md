@@ -38,13 +38,13 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 731.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 3,392 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -52,42 +52,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6162 commits        ████████████░░░░░░░░░░░░░   49.62 % 
-🌆 Daytime                3280 commits        ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-🌃 Evening                1410 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-🌙 Night                  1567 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Tuesday                  2718 commits        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
-Wednesday                2387 commits        █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Thursday                 2189 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Friday                   1977 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Saturday                 673 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Sunday                   861 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     9 hrs 30 mins       █████████████████░░░░░░░░   67.68 % 
-YAML                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Java Properties          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Application Resource Bund20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-
-🔥 Editors: 
-Android Studio           11 hrs 47 mins      █████████████████████░░░░   83.99 % 
-VS Code                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -101,7 +65,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 18:54:53 UTC
+ Last Updated on 16/09/2025 18:54:38 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
