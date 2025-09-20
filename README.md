@@ -39,15 +39,13 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C585%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 731.6 kB Used in GitHub's Storage 
  > 
-> 🏆 3,436 Contributions in the Year 2025
+> 🏆 3,442 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -55,42 +53,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7218 commits        █████████████░░░░░░░░░░░░   50.53 % 
-🌆 Daytime                3775 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-🌃 Evening                1564 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-🌙 Night                  1727 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1841 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Tuesday                  3171 commits        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Wednesday                2766 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Thursday                 2543 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   2297 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Saturday                 746 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Sunday                   920 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     5 hrs 26 mins       ██████████████░░░░░░░░░░░   57.13 % 
-YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Python                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Java Properties          55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-
-🔥 Editors: 
-Android Studio           7 hrs 16 mins       ███████████████████░░░░░░   76.23 % 
-VS Code                  2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -104,7 +66,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 18:52:12 UTC
+ Last Updated on 20/09/2025 18:47:31 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
