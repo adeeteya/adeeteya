@@ -22,7 +22,7 @@
 
 <div align="left">
 
-- 🔭 I’m currently pursuing my Master's degree in Computer Science at Purdue University
+- 🔭 Completed my Master of Science in Computer Science at Purdue University
 - 🌱 I’m currently learning System Design and DSA.
 - 💬 Ask me about Flutter, Arduino and Web Development (MERN Stack)
 - 📫 How to reach me: adeeteya@gmail.com
