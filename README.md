@@ -39,8 +39,6 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2054%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.92%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -68,7 +66,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 19:08:35 UTC
+ Last Updated on 03/01/2026 19:05:54 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
