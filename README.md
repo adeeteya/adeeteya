@@ -39,7 +39,9 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.92%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C765%20hrs%2028%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-57.95%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,6 +55,37 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                22570 commits       ████████████░░░░░░░░░░░░░   49.63 % 
+🌆 Daytime                12056 commits       ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                6378 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+🌙 Night                  4475 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   5163 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Tuesday                  11811 commits       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Wednesday                8759 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Thursday                 8613 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Friday                   7344 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Saturday                 2023 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Sunday                   1766 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -66,7 +99,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 19:05:54 UTC
+ Last Updated on 04/01/2026 19:09:21 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
