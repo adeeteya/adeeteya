@@ -80,12 +80,10 @@ Sunday                   2020 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     13 mins             ████████████████░░░░░░░░░   63.12 % 
-Dart                     7 mins              █████████░░░░░░░░░░░░░░░░   36.87 % 
-Application Resource Bund0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -101,7 +99,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2026 19:06:47 UTC
+ Last Updated on 18/01/2026 19:07:03 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
