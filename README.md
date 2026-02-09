@@ -39,7 +39,7 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%2014%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.48%20million%20lines%20of%20code-blue?style=flat)
 
@@ -80,14 +80,14 @@ Sunday                   2268 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 mins             ████████████████░░░░░░░░░   65.28 % 
-Dart                     4 mins              ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Application Resource Bund0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Other                    18 mins             ██████████████████░░░░░░░   73.97 % 
+Dart                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+YAML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Application Resource Bund0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Chrome                   12 mins             ████████████████░░░░░░░░░   65.28 % 
-Android Studio           6 mins              █████████░░░░░░░░░░░░░░░░   34.72 % 
+Chrome                   18 mins             ██████████████████░░░░░░░   73.97 % 
+Android Studio           6 mins              ███████░░░░░░░░░░░░░░░░░░   26.03 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2026 19:23:32 UTC
+ Last Updated on 09/02/2026 20:13:15 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
