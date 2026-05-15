@@ -39,9 +39,7 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C781%20hrs%2040%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.08%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,37 +53,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26246 commits       ██████████░░░░░░░░░░░░░░░   41.05 % 
-🌆 Daytime                13984 commits       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-🌃 Evening                9298 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-🌙 Night                  14409 commits       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   6695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Tuesday                  19527 commits       ████████░░░░░░░░░░░░░░░░░   30.54 % 
-Wednesday                11344 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Thursday                 12081 commits       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Friday                   9372 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Saturday                 2676 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Sunday                   2242 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Dart                     0 secs              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Android Studio           0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -99,7 +66,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:48:22 UTC
+ Last Updated on 15/05/2026 20:33:04 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
