@@ -39,9 +39,7 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2016%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.26%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,37 +53,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9276 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-🌆 Daytime                8537 commits        ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-🌃 Evening                7828 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-🌙 Night                  5406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Tuesday                  12457 commits       ██████████░░░░░░░░░░░░░░░   40.12 % 
-Wednesday                4107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Thursday                 6147 commits        █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-Friday                   3481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 1230 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Sunday                   1085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -99,7 +66,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 20:56:33 UTC
+ Last Updated on 28/05/2026 21:23:23 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
