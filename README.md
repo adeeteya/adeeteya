@@ -39,13 +39,15 @@
 ![Languages Graph](https://github-readme-stats.vercel.app/api/top-langs?username=adeeteya&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2)
   
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.33%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2016%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 737.3 kB Used in GitHub's Storage 
  > 
-> 🏆 272 Contributions in the Year 2026
+> 🏆 273 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -53,6 +55,37 @@
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                9276 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
+🌆 Daytime                8690 commits        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌃 Evening                8032 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+🌙 Night                  5406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Tuesday                  12729 commits       ██████████░░░░░░░░░░░░░░░   40.53 % 
+Wednesday                4107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Thursday                 6232 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Friday                   3481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Saturday                 1230 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Sunday                   1085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -66,7 +99,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 21:23:23 UTC
+ Last Updated on 29/05/2026 21:20:04 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
