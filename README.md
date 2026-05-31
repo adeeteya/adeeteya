@@ -41,7 +41,7 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.34%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.35%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,37 +55,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                9276 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌆 Daytime                8699 commits        ███████░░░░░░░░░░░░░░░░░░   27.68 % 
-🌃 Evening                8044 commits        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-🌙 Night                  5406 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2540 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Tuesday                  12745 commits       ██████████░░░░░░░░░░░░░░░   40.56 % 
-Wednesday                4107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Thursday                 6237 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Friday                   3481 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 1230 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Sunday                   1085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -99,7 +68,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 20:10:41 UTC
+ Last Updated on 31/05/2026 20:08:43 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
