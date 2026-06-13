@@ -41,13 +41,13 @@
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-31.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 737.3 kB Used in GitHub's Storage 
+> 📦 737.4 kB Used in GitHub's Storage 
  > 
-> 🏆 305 Contributions in the Year 2026
+> 🏆 306 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -55,51 +55,20 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10373 commits       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-🌆 Daytime                9880 commits        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                9214 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌙 Night                  6006 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2805 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Tuesday                  14643 commits       ██████████░░░░░░░░░░░░░░░   41.28 % 
-Wednesday                4581 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 7078 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Friday                   3874 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Saturday                 1338 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Sunday                   1154 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     31 repos            ████████████░░░░░░░░░░░░░   47.69 % 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Dart                     30 repos            ████████████░░░░░░░░░░░░░   46.88 % 
+JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 12/06/2026 20:59:31 UTC
+ Last Updated on 13/06/2026 20:27:38 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
