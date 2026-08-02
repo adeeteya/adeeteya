@@ -37,6 +37,8 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=adeeteya&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=adeeteya&hide_title=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent)
 
 [![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=adeeteya&layout=donut&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=adeeteya&layout=donut&langs_count=4&theme=transparent)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=adeeteya)
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2034%20mins-blue?style=flat)
@@ -114,7 +116,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
 
 ### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ### 😂 Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
