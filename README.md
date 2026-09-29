@@ -41,11 +41,11 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=adeeteya&theme=dark)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,21 +62,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-🌆 Daytime                18207 commits       ████████░░░░░░░░░░░░░░░░░   33.78 % 
-🌃 Evening                20562 commits       ██████████░░░░░░░░░░░░░░░   38.15 % 
-🌙 Night                  5592 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+🌞 Morning                9535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌆 Daytime                18531 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌃 Evening                20994 commits       ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌙 Night                  5597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2706 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Tuesday                  29309 commits       ██████████████░░░░░░░░░░░   54.38 % 
-Wednesday                4183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-Thursday                 11493 commits       █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Friday                   3687 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Saturday                 1342 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   1176 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Monday                   2711 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Tuesday                  29885 commits       ██████████████░░░░░░░░░░░   54.68 % 
+Wednesday                4183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Thursday                 11673 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Friday                   3687 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Saturday                 1342 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Sunday                   1176 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 
@@ -84,21 +84,21 @@ Sunday                   1176 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     7 mins              ██████████████████░░░░░░░   72.09 % 
-Dart                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+YAML                     18 mins             ████████████████░░░░░░░░░   65.05 % 
+Dart                     9 mins              █████████░░░░░░░░░░░░░░░░   34.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Android Studio           10 mins             ████████████████████████░   96.21 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Android Studio           21 mins             ███████████████████░░░░░░   77.56 % 
+Codex Vscode             6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (6.13%)
+⏱ AI Coding Time: 6 mins (23.35%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -106,12 +106,12 @@ Codex Vscode             0 secs              █░░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 491 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 2,484 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -128,7 +128,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 22:09:02 UTC
+ Last Updated on 29/09/2026 00:09:07 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
