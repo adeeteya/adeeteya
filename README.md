@@ -41,17 +41,17 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=adeeteya&theme=dark)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%204%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2016%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.46%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 739.5 kB Used in GitHub's Storage 
+> 📦 740.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,360 Contributions in the Year 2026
+> 🏆 1,421 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -62,21 +62,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9535 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-🌆 Daytime                18531 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
-🌃 Evening                20994 commits       ██████████░░░░░░░░░░░░░░░   38.41 % 
-🌙 Night                  5597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+🌞 Morning                9422 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌆 Daytime                18729 commits       █████████░░░░░░░░░░░░░░░░   34.06 % 
+🌃 Evening                21340 commits       ██████████░░░░░░░░░░░░░░░   38.81 % 
+🌙 Night                  5501 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2711 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Tuesday                  29885 commits       ██████████████░░░░░░░░░░░   54.68 % 
-Wednesday                4183 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Thursday                 11673 commits       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Friday                   3687 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Saturday                 1342 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Sunday                   1176 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Monday                   2658 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Tuesday                  30439 commits       ██████████████░░░░░░░░░░░   55.35 % 
+Wednesday                4135 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Thursday                 11799 commits       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+Friday                   3587 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Saturday                 1258 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Sunday                   1116 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 ```
 
 
@@ -84,35 +84,37 @@ Sunday                   1176 commits        █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     18 mins             ████████████████░░░░░░░░░   65.05 % 
-Dart                     9 mins              █████████░░░░░░░░░░░░░░░░   34.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+CMake                    30 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Dart                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+YAML                     19 mins             █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+ObjectiveC               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+C++                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-Android Studio           21 mins             ███████████████████░░░░░░   77.56 % 
-Codex Vscode             6 mins              ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Android Studio           1 hr 5 mins         ██████████████████░░░░░░░   70.09 % 
+Codex Vscode             27 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (23.35%)
+⏱ AI Coding Time: 30 mins (32.57%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 9 lines written by AI, 9 lines written by hand (50.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 86,568 Input Tokens, 8,006 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.23 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 3 AI Sessions, 9 AI Prompts
+
+GPT                      27 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 2,484 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+⚖️ Balanced with AI — 50.0% of written lines came from AI
+📚 Verbose Prompter — average 1,850 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 37.21% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -128,7 +130,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 00:09:07 UTC
+ Last Updated on 29/09/2026 23:11:08 UTC
 <!--END_SECTION:waka-->
 
 ### 📈 My Contribution Graph
